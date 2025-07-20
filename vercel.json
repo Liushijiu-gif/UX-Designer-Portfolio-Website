@@ -32,8 +32,5 @@
         }
       ]
     }
-  ],
-  "env": {
-    "BLOB_READ_WRITE_TOKEN": "@blob_read_write_token"
-  }
+  ]
 }
