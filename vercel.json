@@ -3,8 +3,8 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "functions": {
-    "app/**/*.tsx": {
-      "runtime": "nodejs18.x"
+    "api/*.js": {
+      "runtime": "nodejs18.x"  // 或 "now-node@1.0.0"（旧版）
     }
   },
   "redirects": [
