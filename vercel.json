@@ -4,7 +4,7 @@
   "framework": "vite",
   "functions": {
     "api/*.js": {
-      "runtime": "nodejs18.x"  // 或 "now-node@1.0.0"（旧版）
+      "runtime": "nodejs18.x" 
     }
   },
   "redirects": [
